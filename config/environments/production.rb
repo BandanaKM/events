@@ -1,6 +1,27 @@
 Rails.application.configure do
   # Settings specified here will take precedence over those in config/application.rb.
 
+  # config.assets.precompile += ['animate.css']
+
+  # config.assets.precompile += ['custom.css']
+
+  # config.assets.precompile += ['flexslider.css']
+
+  # config.assets.precompile += ['font-awesome.css']
+
+  # config.assets.precompile += ['linecons.css']
+
+  # config.assets.precompile += ['magnific-popup.css']
+
+  # config.assets.precompile += ['simpletestrotator.css']
+
+  # config.assets.precompile += ['slider.css']
+
+  # config.assets.precompile += ['style.css']
+
+  # config.assets.precompile += ['vertical.css']
+
+
   # Code is not reloaded between requests.
   config.cache_classes = true
 

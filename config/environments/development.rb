@@ -1,4 +1,26 @@
 Rails.application.configure do
+
+
+  # config.assets.precompile += ['animate.css']
+
+  # config.assets.precompile += ['custom.css']
+
+  # config.assets.precompile += ['flexslider.css']
+
+  # config.assets.precompile += ['font-awesome.css']
+
+  # config.assets.precompile += ['linecons.css']
+
+  # config.assets.precompile += ['magnific-popup.css']
+
+  # config.assets.precompile += ['simpletestrotator.css']
+
+  # config.assets.precompile += ['slider.css']
+
+  # config.assets.precompile += ['style.css']
+
+  # config.assets.precompile += ['vertical.css']
+
   # Settings specified here will take precedence over those in config/application.rb.
 
   # In the development environment your application's code is reloaded on
